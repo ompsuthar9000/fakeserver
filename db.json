@@ -1,4 +1,4 @@
-export const data = [
+[
     {
         "product_id": "1",
         "product_name": "Adicolor Classics Joggers",
